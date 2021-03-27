@@ -3,7 +3,7 @@
 ## Installation
 
 - 'mob' tool https://mob.sh
-- Node.js 14
+- Node.js
 - IDE of your choice
 
 ## Check that everything works on your machine:
