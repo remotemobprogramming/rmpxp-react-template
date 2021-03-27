@@ -6,6 +6,10 @@
 - Node.js
 - IDE of your choice
 
+## Project
+
+- React 17
+
 ## Check that everything works on your machine:
 
 1. Run `mob moo` on your console. It should moo.
